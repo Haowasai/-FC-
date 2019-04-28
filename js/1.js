@@ -1,4 +1,4 @@
-/* Emlog鼠标更随七彩星星特效插件 旺卡铺主站搭建88元|网址：http://www.2016ka.cn */
+
 
 (function() {
 	var z = function() {
